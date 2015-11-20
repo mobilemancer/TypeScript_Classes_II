@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "TypeScript_VS_Code",
+  "private": true,
+  
+  "devDependencies": {
+    "typescript": "^1.6",
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.9.0",
+    "merge": "^1.2.0"
+  }
+}
