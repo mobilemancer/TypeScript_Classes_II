@@ -205,5 +205,7 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 *.js
-*.js
-*.js
+
+TypeScriptDefinitions/*.ts
+
+TypeScriptDefinitions/Droid.d.ts
